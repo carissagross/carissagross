@@ -1,4 +1,5 @@
-<h1 align="center">hey there! :wave:</h1>
+<h1 align="center">hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+
 
 <p align="center">
 <a href="URL_REDIRECT" target="blank"> <img align="center" src="https://user-images.githubusercontent.com/83977544/174122584-f0ac0c50-aa9a-4322-a61e-822b7008e7bb.jpeg" height="400"/></a>
