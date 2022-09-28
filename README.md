@@ -11,9 +11,20 @@
 - :cactus: I am passionate about climbing, backpacking, nature, sustainability and coffee!
 - 🌱 I thrive being challenged and learning something new every day
 - :sauropod: I am a current student at Turing School Software & Design - Front End Software Development
+ - [My Photography](https://www.carissagrossphotography.com/)
 - ⛰️ How to reach me:
-  - [LinkedIn](https://www.linkedin.com/in/carissa-gross/)
-  - [Instagram](https://www.instagram.com/cahrisa/)
-  - [Photography](https://www.carissagrossphotography.com/)
+<p>
+<a href="mailto:carissamgross@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/carissa-gross/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/cahrisa/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<br>
+
  </p>
+ 
+ ## Languages:
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
