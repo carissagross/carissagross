@@ -9,8 +9,8 @@
  
 - :sun_with_face: Pronouns: she/her
 - :cactus: I am passionate about climbing, backpacking, nature, sustainability and coffee!
-- 🌱 I thrive on being challenged and learning something new every day
-- :sauropod: I am a current student at Turing School Software & Design - Front End
+- 🌱 I thrive being challenged and learning something new every day
+- :sauropod: I am a current student at Turing School Software & Design - Front End Software Development
 - ⛰️ How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/carissa-gross/)
   - [Instagram](https://www.instagram.com/cahrisa/)
