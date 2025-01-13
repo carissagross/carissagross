@@ -10,8 +10,7 @@
 - :sun_with_face: Pronouns: she/her
 - :cactus: I am passionate about climbing, backpacking, nature, sustainability, inclusivity, and coffee!
 - 🌱 I thrive being challenged and learning something new every day
-- :sauropod: I am a current student at Turing School Software & Design - Front End Software Development
- - [My Photography](https://www.carissagrossphotography.com/)
+- :sauropod: I am currently a Product Support Engineer at Bandwidth!
 - ⛰️ How to reach me:
 <p>
 <a href="mailto:carissamgross@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
